@@ -2619,8 +2619,8 @@ importers:
   packages/hooks/use-size:
     dependencies:
       '@zag-js/element-size':
-        specifier: 0.16.0
-        version: 0.16.0
+        specifier: 0.19.1
+        version: 0.19.1
     devDependencies:
       clean-package:
         specifier: 2.2.0
@@ -11299,8 +11299,8 @@ packages:
     resolution: {integrity: sha512-Oqhd6+biWyKnhKwFFuZrrf6lxBz2tX2pRQe6grUnYwO6HJ8BcbqZomy2lpOdr+3itlaUqx+Ywj5E5ZZDr/LBfQ==}
     dev: false
 
-  /@zag-js/element-size@0.16.0:
-    resolution: {integrity: sha512-GAlrv1PB0bn5dxC+CSXYF0v/HG2mB2cIhyk2cLyAwFVN5lpxGDhYFcuqDVdKWI2wATWJlo3OV+XdIq5GQtYAlQ==}
+  /@zag-js/element-size@0.19.1:
+    resolution: {integrity: sha512-OCaTwqEiiyy41FHs/s64zVNnU8Y/I4LVRF3oR0z3fx4QwMOVhp29RvXD4DTki5Fblv4kon/6yYI2TCbJrEBh/A==}
     dev: false
 
   /@zag-js/focus-visible@0.16.0:
@@ -24571,7 +24571,7 @@ packages:
     dependencies:
       eastasianwidth: 0.2.0
       emoji-regex: 9.2.2
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
 
   /string-width@6.1.0:
     resolution: {integrity: sha512-k01swCJAgQmuADB0YIc+7TuatfNvTBVOoaUWJjTB9R4VJzR5vNWzf5t42ESVZFPS8xTySF7CAdV4t/aaIm3UnQ==}
@@ -26786,7 +26786,7 @@ packages:
     dependencies:
       ansi-styles: 6.2.1
       string-width: 5.1.2
-      strip-ansi: 7.0.1
+      strip-ansi: 7.1.0
 
   /wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
