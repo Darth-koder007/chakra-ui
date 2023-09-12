@@ -1,6 +1,6 @@
 Thanks for showing interest to contribute to Chakra UI 💖, you rock!
 
-When it comes to open source, there are different ways you can contribute, all
+When it comes to open source, there are diffrent ways you can contribute, all
 of which are valuable. Here's a few guidelines that should help you as you
 prepare your contribution.
 
